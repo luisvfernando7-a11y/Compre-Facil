@@ -1,6 +1,6 @@
 # Compre Facil
 
-## Descricao executiva
+## Descrição executiva
 
 Compre Facil e um aplicativo mobile desenvolvido com Expo e React Native para organizacao de listas de compras por setores. O projeto oferece uma experiencia objetiva para registrar produtos, classifica-los automaticamente em categorias de supermercado, controlar quantidades, marcar itens ja coletados e acompanhar o progresso geral da compra.
 
