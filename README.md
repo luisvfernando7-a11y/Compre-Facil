@@ -103,7 +103,7 @@ This project uses the `0BSD` license, as declared in `package.json`.
 
 Luis Fernando
 
-- Portfolio: [Coming soon](https://luisgalvani.vercel.app/)
-- LinkedIn: www.linkedin.com/in/luisfernandovieira
+- Portfolio: [Meu site](https://luisgalvani.vercel.app/)
+- LinkedIn:[LinkedIn](www.linkedin.com/in/luisfernandovieira)
 - GitHub: [luisvfernando7-a11y](https://github.com/luisvfernando7-a11y)
 - Email: [luisvfernando7@gmail.com](mailto:luisgalvanivzk@gmail.com)
